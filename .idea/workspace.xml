@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04719311-7405-4553-b07b-860f004d7773" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Hovercraft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Moped.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/SemiTruck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Vehicle.java" afterDir="false" />
+    <list default="true" id="04719311-7405-4553-b07b-860f004d7773" name="Changes" comment="Created a superclass &quot;Vehicle.java&quot; and inherited its properties and methods into Moped.java, Car.java, and SemiTruck.java.&#10;&#10;Learned:&#10;- That using &quot;extends&quot; inherits properties into other classes">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Main"
   }
 }]]></component>
@@ -54,6 +45,18 @@
       <option name="presentableId" value="Default" />
       <updated>1794861985731</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created a superclass &quot;Vehicle.java&quot; and inherited its properties and methods into Moped.java, Car.java, and SemiTruck.java.&#10;&#10;Learned:&#10;- That using &quot;extends&quot; inherits properties into other classes">
+      <created>1794863198799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794863198799</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created a superclass &quot;Vehicle.java&quot; and inherited its properties and methods into Moped.java, Car.java, and SemiTruck.java.&#10;&#10;Learned:&#10;- That using &quot;extends&quot; inherits properties into other classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a superclass &quot;Vehicle.java&quot; and inherited its properties and methods into Moped.java, Car.java, and SemiTruck.java.&#10;&#10;Learned:&#10;- That using &quot;extends&quot; inherits properties into other classes" />
   </component>
 </project>
